@@ -8,3 +8,5 @@ Les [réglages, c'est par là](../../settings).
 [Éditez ce fichier en cliquant ici](../../edit/master/README.md).
 
 1ère Edition
+
+2ème edition depuis terminal

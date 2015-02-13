@@ -13,26 +13,25 @@
 }
 
 
-
-/*@media (min-width: 1024px) {
-	span{
-		display:flex;
-		flex-flow:row;
-		}	
-
-}*/
-
-#corps {
+#info {
 	display:flex;
+	flex-flow: row wrap;
+}
+
+#info > section {
+	width:45%;
+	border-style: solid;
+	border-width:2px;
+	border-radius: 10px;
+	padding:10px;
+	margin:10px;
 }
 
 
 nav {
-	padding-left:25px;
-	padding-right: 25px;
-	margin-top: 25px;
-	margin-left: 25px;
-	margin-right: 25px;
+	float:left;
+	padding:10px;
+    margin:10px;
 	border-style: solid;
 	border-width: 2px;
 	border-radius: 10px;
@@ -46,62 +45,25 @@ nav ul{
 
 
 #dp {
-	padding-left:25px;
-	padding-right: 25px;
-	margin-top: 25px;
-	margin-left: 25px;
-	margin-right: 25px;
-	border-style: solid;
-	border-width: 2px;
-	border-radius: 10px;
+
 	border-color:green;
 }
 
 #cours {
-	padding-left:25px;
-	padding-right: 25px;
-	margin-top: 25px;
-	margin-left: 25px;
-	margin-right: 50px;
-	border-style: solid;
-	border-width: 2px;
-	border-radius: 10px;
+
 	border-color:blue;
 }
 
 #loisirs {
-	padding-left:25px;
-	padding-right: 25px;
-	margin-top: 25px;
-	margin-left: 25px;
-	margin-right: 25px;
-	border-style: solid;
-	border-width: 2px;
-	border-radius: 10px;
+
 	border-color:red;
 }
 
 #etudes {
-	padding-left:25px;
-	padding-right: 25px;
-	margin-top: 25px;
-	margin-left: 25px;
-	margin-right: 25px;
-	border-style: solid;
-	border-width: 2px;
-	border-radius: 10px;
 	border-color:yellow;
 }
 
 #expro {
-	padding-left:25px;
-	padding-right: 25px;
-	margin-top: 25px;
-	margin-left: 25px;
-	margin-right: 25px;
-	border-style: solid;
-	border-width: 2px;
-	border-radius: 10px;
 	border-color:purple;
 }
 

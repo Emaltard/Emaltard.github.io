@@ -10,3 +10,4 @@ Les [réglages, c'est par là](../../settings).
 1ère Edition
 
 2ème edition depuis terminal
+3ème édition depuis terminal

@@ -1,0 +1,129 @@
+@media (max-width: 400px) {
+    nav {
+        font-size:15px;
+    }
+    nav li{
+    	display:inline;
+    	margin: 0;
+    	padding: 0;
+    }
+    nav ul ul{
+    	display:none;
+    }
+}
+
+
+
+@media (min-width: 1024px) {
+	span{
+		display:flex;
+		flex-flow:row;
+		}	
+
+}
+
+
+nav {
+	padding-left:25px;
+	padding-right: 25px;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	border-color:grey;
+    font-size:15px;
+}
+
+nav ul{
+	list-style-type:none;
+}
+
+
+#dp {
+	padding-left:25px;
+	padding-right: 25px;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	border-color:green;
+}
+
+#cours {
+	padding-left:25px;
+	padding-right: 25px;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 50px;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	border-color:blue;
+}
+
+#loisirs {
+	padding-left:25px;
+	padding-right: 25px;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	border-color:red;
+}
+
+#etudes {
+	padding-left:25px;
+	padding-right: 25px;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	border-color:yellow;
+}
+
+#expro {
+	padding-left:25px;
+	padding-right: 25px;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	border-color:purple;
+}
+
+h1 {
+	text-align:center;
+	font-size:30px;
+}
+
+
+h2 {
+	text-align:center;
+}
+
+img {
+	float:left;
+	height:100px;
+	margin-right:50px;
+}
+
+
+
+footer {
+	text-align:center;
+	border-top-style:solid;
+	border-top-width:2px;
+	padding-top:5px;
+	margin-top:50px;
+	font-size:15px;
+}

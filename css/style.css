@@ -14,12 +14,16 @@
 
 
 
-@media (min-width: 1024px) {
+/*@media (min-width: 1024px) {
 	span{
 		display:flex;
 		flex-flow:row;
 		}	
 
+}*/
+
+body {
+	display:flex;
 }
 
 
